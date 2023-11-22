@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6rpO15CSwxp" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Hurry Up</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Hurry_Up_ORG">
+    <organization identifier="Hurry_Up_ORG">
+      <title>Hurry Up</title>
+      <item identifier="Untitled1_SCO" isvisible="true" identifierref="__6rpO15CSwxp_RES">
+        <title>Hurry Up</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6rpO15CSwxp_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="story_content/video_5bHSTB4m11z_18_128_438x584.mp4" />
+      <file href="mobile/poster_61hyYdO0uV5_video_5bHSTB4m11z_18_128_438x584.jpg" />
+      <file href="story_content/5qTrmocE10Q_44100_128_1.mp3" />
+      <file href="story_content/5YX1FiY7moE_44100_128_1.mp3" />
+      <file href="mobile/6CHoR1ZA8uq.png" />
+      <file href="mobile/5lMaSUkd7Go.png" />
+      <file href="mobile/6VziMIk580V.png" />
+      <file href="story_content/5ZDR19Tj1rq_44100_128_1.mp3" />
+      <file href="mobile/5dLsSMRIGDU.png" />
+      <file href="mobile/5dLsSMRIGDU_C-40.png" />
+      <file href="mobile/66ARNvzzvb5.png" />
+      <file href="mobile/66ARNvzzvb5_C-40.png" />
+      <file href="mobile/5rHHq7irNGr.png" />
+      <file href="mobile/5rHHq7irNGr_C-40.png" />
+      <file href="story_content/video_633ojLIS1CE_18_128_136x148.mp4" />
+      <file href="mobile/poster_5Vj47bfQARr_video_633ojLIS1CE_18_128_136x148.jpg" />
+      <file href="mobile/5cSfct9AQe3.jpg" />
+      <file href="mobile/6XgxYQ0uvDQ.png" />
+      <file href="mobile/6oCJuTqAmJ6.jpg" />
+      <file href="mobile/6ChV3M17ZRj.jpg" />
+      <file href="mobile/66Bjkxi3Xr2.jpg" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5gywpsdROzW.js" />
+      <file href="html5/data/js/5xg321uMjJZ.js" />
+      <file href="html5/data/js/6aBkYp7EWTH.js" />
+      <file href="html5/data/js/6IDrBqBcU3j.js" />
+      <file href="html5/data/js/6j69mX76xk7.js" />
+      <file href="html5/data/js/6MUm8q4If3k.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/hls/hls.min.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
